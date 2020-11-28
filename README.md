@@ -1,5 +1,6 @@
 # empty_binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucydot/empty_binder.git/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Flucydot%2Fempty_binder%2Fblob%2Fmain%2FNotebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucydot/empty_binder.git/HEAD)
 
-An empty notebook for students to use through Binder
+An empty notebook for students to use through Binder. Access through the button above (links to https://mybinder.org/v2/gh/lucydot/empty_binder.git/HEAD).
+Includes data and packages needed to complete the python_novice workshop at https://lucydot.github.io/python_novice.
